@@ -21,7 +21,7 @@ body {
     max-width: 440px;
     margin: 20px 0;
     padding: 20px;
-    background-color: #e7dada; /* White background */
+    background-color: #d24b4b; /* White background */
     border: 1px solid #d1d5db; /* Light gray border */
     border-radius: 0.5em;
     font-weight: 700;
@@ -123,10 +123,10 @@ label {
 button[type="submit"] {
     padding: 12px;
     margin: 10px 0;
-    border: 1px solid #c9c8dc; /* Purple border */
+    border: 1px solid #000000; /* Purple border */
     border-radius: 0.5em;
-    background-color: #dcdbee; /* Purple background */
-    color: #ffffff; /* White text for contrast */
+    background-color: #1ebc4d; /* Purple background */
+    color: #000000; /* White text for contrast */
     cursor: pointer;
     grid-column: span 2;
     font-weight: 600;
