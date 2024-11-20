@@ -21,7 +21,7 @@ body {
     max-width: 440px;
     margin: 20px 0;
     padding: 20px;
-    background-color: #ffffff; /* White background */
+    background-color: #eba5a5; /* White background */
     border: 1px solid #d1d5db; /* Light gray border */
     border-radius: 0.5em;
     font-weight: 700;
@@ -34,7 +34,7 @@ body {
     width: 80%;
     margin: 20px 0;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #a17c0b;
     border: 1px solid #d1d5db;
     border-radius: 0.5em;
     font-weight: 700;
@@ -71,7 +71,7 @@ form {
     grid-template-columns: 1fr 2fr;
     margin: 15% auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #c46b6b;
     border: 1px solid #d1d5db;
     border-radius: 0.5em;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -101,7 +101,7 @@ form {
 }
 
 .tasks_container_show:hover::-webkit-scrollbar-thumb {
-    background-color: #3b82f6; /* Blue scrollbar thumb for modern look */
+    background-color: #5cc02b; /* Blue scrollbar thumb for modern look */
 }
 
 select, input[type="text"], input[type="date"] {
@@ -123,9 +123,9 @@ label {
 button[type="submit"] {
     padding: 12px;
     margin: 10px 0;
-    border: 1px solid #4f46e5; /* Purple border */
+    border: 1px solid #726fb0; /* Purple border */
     border-radius: 0.5em;
-    background-color: #4f46e5; /* Purple background */
+    background-color: #6560ba; /* Purple background */
     color: #ffffff; /* White text for contrast */
     cursor: pointer;
     grid-column: span 2;
@@ -134,7 +134,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #4338ca; /* Darker purple on hover */
+    background-color: #a49ee7; /* Darker purple on hover */
 }
 
 table {
@@ -143,7 +143,7 @@ table {
     width: 95%;
     margin: 20px auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #cf83c6;
     border-radius: 0.5em;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     font-weight: 700;
@@ -153,17 +153,17 @@ table {
 tr {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 0.25fr 0.3fr;
-    border: 1px solid #e5e7eb; /* Lighter border */
+    border: 1px solid #7a98d4; /* Lighter border */
 }
 
 th, td {
     padding: 12px;
-    border: 1px solid #d1d5db;
+    border: 1px solid #788caa;
     text-align: center;
 }
 
 th {
-    background-color: #f9fafb; /* Light gray header background */
+    background-color: #a0c0df; /* Light gray header background */
     color: #4b5563; /* Slightly darker text */
 }
 
